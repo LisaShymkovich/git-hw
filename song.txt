@@ -69,3 +69,5 @@ Good God, let me give you my life
 !!! First commit in branch 'Feature'
 
 !!! Second commit in branch 'Feature'
+
+!  ВЕРНУЛА НАСТРОЙКИ REMOTE!!!!
